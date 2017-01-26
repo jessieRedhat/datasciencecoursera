@@ -2,6 +2,6 @@
 First Repo 4 data science couresera
 
 ## Things I will do
-. add
-. fetch
-. push
+* add
+* fetch
+* push
